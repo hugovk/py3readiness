@@ -7,7 +7,7 @@ from src.utils import (
 )
 
 
-TO_CHART = 360
+TO_CHART = 1080
 
 
 def main(*args):
